@@ -1,2 +1,5 @@
-# go-structsort
-Minimal package for sorted array struct
+# sortstruct
+
+Sort struct slices in Go.
+
+[Example](_example)
